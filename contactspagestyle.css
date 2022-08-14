@@ -60,7 +60,6 @@ body {
     color: #316099;
 }
 
-
 .main {
     display: flex;
     justify-content: space-around;
@@ -136,6 +135,12 @@ body {
     text-decoration: none;
     display: inline-block;
     margin-top: 71px;
+}
+
+.button:hover {
+    background: #FFFFFF;
+    border: 2px solid #42A5F5;
+    color: #42A5F5;
 }
 
 .map {
